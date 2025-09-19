@@ -41,7 +41,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifhidayat25&layout=compact&theme=tokyonight" alt="top languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifhidayat25&theme=tokyonight" alt="streak stats"/>
 </p>
 
 ---
